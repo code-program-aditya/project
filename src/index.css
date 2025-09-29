@@ -1,0 +1,140 @@
+.weblog {
+  width: 70px;
+}
+.navbar {
+  background-color: red;
+}
+.navbar-nav li{
+  padding: 0 10px;
+}
+.navbar-nav li a{
+  color: white;
+}
+@media(max-width:768px) {
+    .navbar {
+    background: #ed090982 !important;
+    }
+    .weblog{
+        display: none;
+    }
+}
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.a  {
+  text-align: center;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: 'prague';
+  letter-spacing: 3px;
+}
+.b {
+  background-image: url(https://download.logo.wine/logo/Indian_Air_Force/Indian_Air_Force-Logo.wine.png);
+  width: 100%;
+  height: 685px;
+  background-size: cover;
+  background-position: center;
+  margin-top: 139px;
+}
+.c  {
+  text-align: center;
+  margin-top: -44px;
+}
+.f {
+  width: 536px;
+  height: 444px;
+  padding-right: 20px;
+}
+.z {
+  font-family: 'prague';
+  font-style: italic;
+  text-transform: uppercase;
+}
+.t {
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 5px;
+  word-spacing: 1px;
+  line-height: 35px;
+}
+.r {
+  background-image: linear-gradient(rgba(0, 113, 187, 0.57)), url(https://wallpapercave.com/wp/wp3991335.jpg);
+  width: 100%;
+  height: 385px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.o {
+  color: red;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: 'prague';
+}
+.n {
+  line-height: 30px;
+  word-spacing: 1px;
+  font-size: 18px;
+  color: aliceblue;
+}
+.lll {
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: 'prague';
+  letter-spacing: 3px;
+}
+.ccc {
+  background-image: url(https://tse2.mm.bing.net/th/id/OIP.bLPp2SG7Hnb-IrCAtQhXewHaEK?w=1200&h=675&rs=1&pid=ImgDetMain&o=7&rm=3);
+  width: 100%;
+  height: 630px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.s {
+font-family: 'prague';
+font-size: 1.5cm;
+margin-top: 4cm;
+}
+.ccd {
+  background-image: url(https://tse3.mm.bing.net/th/id/OIP.StQx7L0fwIZsQ2C4r-XYqwHaEz?pid=ImgDet&w=474&h=307&rs=1&o=7&rm=3);
+  width: 100%;
+  height: 630px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.abc {
+  background-image: url(https://www.gktoday.in/wp-content/uploads/2022/10/prachand.png);
+  width: 100%;
+  height: 630px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+.fff {
+  background-image: url(https://preview.redd.it/mr-sam-multi-function-radar-and-mobile-launcher-system-on-v0-9sfn1ajm5rjc1.jpeg?width=640&crop=smart&auto=webp&s=083bb50211bb1ce4ff52b6e929381f665dc83e3c);
+  width: 100%;
+  height: 630px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.clk {
+  background-image: url(https://www.ssbcrack.com/wp-content/uploads/2024/01/Ugram-Assault-Rifle-2-1-1068x601.jpg);
+  width: 100%;
+  height: 630px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
